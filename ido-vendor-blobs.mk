@@ -648,4 +648,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ido/proprietary/lib/modules/radio-iris-transport.ko:system/lib/modules/radio-iris-transport.ko \
     vendor/xiaomi/ido/proprietary/lib/modules/spidev.ko:system/lib/modules/spidev.ko \
     vendor/xiaomi/ido/proprietary/lib/modules/test-iosched.ko:system/lib/modules/test-iosched.ko \
-    vendor/xiaomi/ido/proprietary/lib/modules/wlan.ko:system/lib/modules/wlan.ko
+    vendor/xiaomi/ido/proprietary/lib/modules/wlan.ko:system/lib/modules/wlan.ko \
+	vendor/xiaomi/ido/proprietary/lib/hw/audio.primary.msm8916.so:system/lib/hw/audio.primary.msm8916.so \
+	vendor/xiaomi/ido/proprietary/lib64/hw/audio.primary.msm8916.so:system/lib64/hw/audio.primary.msm8916.so
